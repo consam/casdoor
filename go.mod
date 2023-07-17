@@ -1,4 +1,4 @@
-module github.com/casdoor/casdoor
+module github.com/consam/casdoor
 
 go 1.16
 
@@ -12,10 +12,10 @@ require (
 	github.com/beevik/etree v1.1.0
 	github.com/casbin/casbin v1.9.1 // indirect
 	github.com/casbin/casbin/v2 v2.30.1
-	github.com/casdoor/go-sms-sender v0.6.1
 	github.com/casdoor/gomail/v2 v2.0.1
 	github.com/casdoor/oss v1.2.0
 	github.com/casdoor/xorm-adapter/v3 v3.0.4
+	github.com/consam/go-sms-sender v0.6.1
 	github.com/dchest/captcha v0.0.0-20200903113550-03f5f0333e1f
 	github.com/denisenkom/go-mssqldb v0.9.0
 	github.com/dlclark/regexp2 v1.9.0 // indirect
